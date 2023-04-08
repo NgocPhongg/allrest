@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+fie week 1 bro
+=======
+<<<<<<< HEAD
 file main
 =======
 <<<<<<< HEAD
@@ -12,3 +15,4 @@ fileasdsad
 okkk
 >>>>>>> main
 >>>>>>> week1
+>>>>>>> main
