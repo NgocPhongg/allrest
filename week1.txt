@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 dday laf file main
 =======
-file wwek111
+fileasdsad
 >>>>>>> week1
-asdsad
+okkk
