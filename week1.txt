@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-dday laf file main
-=======
-fileasdsad
->>>>>>> week1
-okkk
+file main
