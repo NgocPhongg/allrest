@@ -1,1 +1,14 @@
+<<<<<<< HEAD
 file main
+=======
+<<<<<<< HEAD
+file abc cua week1
+=======
+<<<<<<< HEAD
+dday laf file main
+=======
+fileasdsad
+>>>>>>> week1
+okkk
+>>>>>>> main
+>>>>>>> week1
